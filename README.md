@@ -1,9 +1,6 @@
 npm run dev
 npm run build
 npm run preview
-npm run dev
-npm run build
-npm run preview
 # Golf in Spain
 
 A modern React website for golf in Spain, targeting English-speaking clients. Explore top golf courses, book tee times, and learn more about golfing in Spain.
