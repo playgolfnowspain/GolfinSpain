@@ -43,7 +43,7 @@
 
 .page {
   background: #111;
-  border: 3px solid #1a3d2f;
+  border: 3px solid #228B22;
   border-radius: 12px;
   margin: 2rem auto;
   padding: 2rem 2.5rem;
@@ -54,13 +54,13 @@
 }
 
 .page h1, .page h2 {
-  color: #1a3d2f;
+  color: #01796F;
   margin-bottom: 1rem;
 }
 
 .page.home {
   text-align: center;
-  background: linear-gradient(120deg, #1a3d2f 0%, #111 100%);
+  background: linear-gradient(120deg, #228B22 0%, #111 100%);
 }
 
 .main-content {
@@ -81,7 +81,7 @@ body {
 
 .article-card {
   background: #181f1b;
-  border: 2px solid #1a3d2f;
+  border: 2px solid #228B22;
   border-radius: 8px;
   padding: 1.2rem 1.5rem;
   color: #fff;
